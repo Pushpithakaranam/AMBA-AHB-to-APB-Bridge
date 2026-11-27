@@ -37,3 +37,13 @@ The bridge RTL design is implemented in Verilog HDL. A separate testbench is pro
 
 - "ahbtoapb.v" – RTL design
 - "ahbtoapb_tb.v" – Testbench
+## Simulation Results
+
+### 1. RTL Schematic
+![RTL Schematic](Simulation/simulation/rtl_schematic.png.png)
+
+### 2. Simulation Waveform
+![Simulation Waveform](Simulation/simulation/simulation_Waveform.png.png)
+
+### 3. Simulation Waveform(Detailed view)
+![Simulation Results](Simulation/simulation/simulation_results.png.png)
