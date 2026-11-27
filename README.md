@@ -33,7 +33,7 @@ AMBA-AHB-to-APB-Bridge/
 
 The bridge RTL design is implemented in Verilog HDL. A separate testbench is provided to simulate and verify the design.
 
-Files
+**Files**
 
 - "ahbtoapb.v" – RTL design
 - "ahbtoapb_tb.v" – Testbench
